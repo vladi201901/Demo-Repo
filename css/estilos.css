@@ -14,3 +14,9 @@ p{
     height: 200px;
     background-color: tomato;
 }
+#datos2{
+    width: 100px;
+    height: 100px;
+    margin-top: 10px;
+    background-color: teal;
+}
